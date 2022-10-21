@@ -2,8 +2,6 @@
 
 Repository for the kaggle challenge [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales). 
 
-[table_of_contents]
-
 ## Description
 
 This challenge serves as final project for the "How to win a data science competition" Coursera course.
