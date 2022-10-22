@@ -1,6 +1,6 @@
 # kaggle_predict_future_sales
 
-Repository for the kaggle challenge [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales). 
+Repository for the kaggle challenge [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales) which serves as the final project for the ["How to win a data science competition"](https://www.coursera.org/learn/competitive-data-science/home/welcome) Coursera course.
 
 ## Description
 
@@ -18,8 +18,8 @@ You are provided with daily historical sales data. The task is to forecast the t
 * test.csv - the test set. You need to forecast the sales for these shops and products for November 2015.
 * sample_submission.csv - a sample submission file in the correct format.
 * items.csv - supplemental information about the items/products.
-* item_categories.csv  - supplemental information about the items categories.
-* shops.csv- supplemental information about the shops.
+* item_categories.csv - supplemental information about the items categories.
+* shops.csv - supplemental information about the shops.
 
 #### Data fields
 
