@@ -1,3 +1,20 @@
-**/*.ipynb_checkpoints/
+# Pycharm
+.idea
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data, reports and figures from source control by default
 data/
 kaggle/input/
+output/
+
+# 
+notebooks/*.pickle
+notebooks/*.pkl
+
+# scripts
+setup_git.cmd
+
+# exceptions to keep the directory structure in git
+!*.gitkeep
