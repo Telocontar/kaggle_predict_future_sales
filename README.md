@@ -42,12 +42,27 @@ This dataset is permitted to be used for any purpose, including commercial use.
 ## Prediction
 
 ### Preprocessing
-TODO
+The following preprocessing steps are performed:
+
+#### data cleaning
+* negative prices are replaced with median
+* outliers are removed
+
+#### Other
+* data is aggregated to monthly level
+* supplemental data is added
+
+#### Feature engineering
+* target lag features
+* mean encoded features
 
 ### Models
-TODO
+A simple XGBRegressor with minimal hyperparameter optimization is being used.
 
 ### Results
-TODO
+Using the XGBRegressor results in a final score of 1.00617 on the public leaderboard.
+The most important features are listed below:
+![XGBoost - Feature importance](doc/XGBoost_feature_importance.png)
+
 
 
