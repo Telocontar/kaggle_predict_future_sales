@@ -2,6 +2,8 @@
 
 Repository for the kaggle challenge [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales) which serves as the final project for the ["How to win a data science competition"](https://www.coursera.org/learn/competitive-data-science/home/welcome) Coursera course.
 
+Assignments for the course are stored [here](notebooks/coursera).
+
 ## Description
 
 This challenge serves as final project for the "How to win a data science competition" Coursera course.
